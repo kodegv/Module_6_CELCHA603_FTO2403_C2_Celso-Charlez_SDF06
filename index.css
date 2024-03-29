@@ -18,6 +18,10 @@ body {
 img {
   width: 150px;
   margin: 0 auto;
+  background-color: #ffffff;
+  border: 0 #7f4362 solid;
+  padding: 30px;
+  border-radius: 15px;
 }
 
 input {
